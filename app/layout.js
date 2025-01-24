@@ -29,6 +29,8 @@ export default function RootLayout({ children }) {
               <Link href="/profile">Profile</Link>
 
              
+
+             
             </div>
           </nav>
         </header>
