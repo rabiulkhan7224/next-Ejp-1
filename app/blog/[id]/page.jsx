@@ -19,7 +19,7 @@ export async function generateStaticParams() {
     return (
       <div>
         <h1 className="text-3xl font-bold">{post.title}</h1>
-        <p className="mt-4">{post.body}</p>
+        <p className="mt-4 mb-2">{post.body}</p>
       </div>
     );
   }
